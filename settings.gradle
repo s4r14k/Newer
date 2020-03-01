@@ -1,0 +1,3 @@
+include ':app', 'dji'
+rootProject.name='Newer'
+include ':openCVLibrary2411'
