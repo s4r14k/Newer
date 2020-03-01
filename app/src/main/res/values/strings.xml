@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Newer</string>
+    <string name="dji_sdk_activate_error">DJI SDK activation error</string>
+    <string name="stitching">Stitching</string>
+    <string name="one_key_panorama">One Button Panorama</string>
+    <string name="commonMessageString">Common message</string>
+    <string name="groundstation_take_control">Caution! GroundStation taking control now</string>
+    <string name="init_gimabal_yaw">Initializing gimbal....</string>
+    <string name="test">Test</string>
+    <string name="capturing_image">Capturing</string>
+    <string name="capture_image_complete">Capture complete</string>
+    <string name="downloading">Downloading</string>
+    <string name="battery">Battery</string>
+    <string name="pressAgainExitString">Press again to exit</string>
+    <string name="unsupported_drone">Unsupported drone, use Inspire1 or Phantom 3 pro and try again</string>
+    <string name="video_preview_disabled_during_stitching">Warning! Video preview disabled during stitching</string>
 </resources>
